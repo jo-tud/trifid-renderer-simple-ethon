@@ -1,5 +1,5 @@
 {
-  "name": "trifid-renderer-simple-ethon",
+  "name": "trifid-renderer-simple",
   "description": "Simple renderer for Trifid for EthOn based data",
   "version": "6.0.0",
   "license": "MIT",
