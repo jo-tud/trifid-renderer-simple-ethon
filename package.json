@@ -1,15 +1,15 @@
 {
-  "name": "trifid-renderer-simple",
-  "description": "Simple renderer for Trifid",
-  "version": "5.0.0",
+  "name": "trifid-renderer-simple-ethon",
+  "description": "Simple renderer for Trifid for EthOn based data",
+  "version": "6.0.0",
   "license": "MIT",
-  "homepage": "https://github.com/zazuko/trifid-renderer-simple",
+  "homepage": "https://github.com/jo-tud/trifid-renderer-simple-ethone",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zazuko/trifid-renderer-simple.git"
+    "url": "https://github.com/jo-tud/trifid-renderer-simple-ethon.git"
   },
   "bugs": {
-    "url": "https://github.com/zazuko/trifid-renderer-simple/issues"
+    "url": "https://github.com/jo-tud/trifid-renderer-simple-ethon/issues"
   },
   "scripts": {
     "test": "standard"
