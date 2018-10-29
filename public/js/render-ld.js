@@ -52,7 +52,7 @@ function iriLabel(iri) {
     } else if (parts[2].startsWith("LogEntry_")) {
         return parseLogEntry(parts[2])
     } else if (parts[2].startsWith("ContractMsg_")) {
-        return parseContractMsgy(parts[2])
+        return parseContractMsg(parts[2])
     }
 
     if (!parts || parts.length === 0) {
